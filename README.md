@@ -4,7 +4,7 @@
 
 <a href="https://curisejia.github.io/">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=curisejia&count_private=true&show_icons=true" />
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=curisejia&layout=compact" />
+<!--   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=curisejia&layout=compact" /> -->
 </a> 
 
 <!--
