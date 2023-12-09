@@ -1,7 +1,13 @@
 ### Hi there 👋
+- 🌱 Welcome to my Github Repo!
+- 📫 How to reach me: curise.publish@gmail.com
+
+<a href="https://curisejia.github.io/">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=curisejia&count_private=true&show_icons=true" />
+</a> 
 
 <!--
-**CuriseJia/CuriseJia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**curisejia/curisejia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
