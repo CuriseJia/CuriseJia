@@ -2,16 +2,13 @@
 - 🌱 Welcome to my Github Repo!
 - 📫 How to reach me: curise.publish@gmail.com
 
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=curisejia&count_private=true&show_icons=true" />
+
 ### My research 🤗
 - Vision-Language, Multi-Modal
 - AIGC with Diffusion Model
 - AI4Science
 - And more!
-
-<a href="https://curisejia.github.io/">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=curisejia&count_private=true&show_icons=true" />
-<!--   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=curisejia&layout=compact" /> -->
-</a> 
 
 <!--
 **curisejia/curisejia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
