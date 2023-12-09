@@ -4,9 +4,9 @@
 
 <a href="https://curisejia.github.io/">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=curisejia&count_private=true&show_icons=true" />
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=curisejia&theme=dark&layout=compact)
+  
 </a> 
-
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=curisejia&theme=dark&layout=compact)
 <!--
 **curisejia/curisejia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
